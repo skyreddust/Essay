@@ -1,0 +1,9 @@
+图存储结构：邻接矩阵、邻接表
+1.邻接矩阵：一维数组存储图中顶点信息 + 二维数组（邻接矩阵）存储图中边或弧信息
+  稠密图
+2.邻接表：
+  稀疏图
+
+参考链接：
+https://blog.csdn.net/cristianoxm/article/details/106802886
+https://blog.csdn.net/SMUEvian/article/details/71598177
