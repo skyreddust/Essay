@@ -1,0 +1,11 @@
+BFS 广度优先搜索（Breadth First Search)：类似树的层序遍历
+  邻接表存储：遍历时间复杂度 = 空间复杂度 = O(|v|+|E|)
+  邻接矩阵存储：遍历时间复杂度 = 空间复杂度 = O(|v|^2)
+
+DFS 深度优先搜索（Depth First Search)：类似树的先序遍历
+  邻接表存储：遍历时间复杂度 = 空间复杂度 = O(|v|+|E|)
+  邻接矩阵存储：遍历时间复杂度 = 空间复杂度 = O(|v|^2)
+
+参考链接：
+https://blog.csdn.net/weixin_40953222/article/details/80544928
+https://blog.csdn.net/liyuanyue2017/article/details/84104075
