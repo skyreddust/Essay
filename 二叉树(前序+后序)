@@ -1,0 +1,10 @@
+前序遍历 + 中序遍历 = 唯一确定一棵二叉树
+后序遍历 + 中序遍历 = 唯一确定一棵二叉树
+前序遍历 + 后序遍历：二叉树不唯一
+
+参考链接：
+https://blog.csdn.net/qfturauyls/article/details/107392618
+https://waple.blog.csdn.net/article/details/81837875
+https://blog.csdn.net/qq_37437983/article/details/79613947
+https://blog.csdn.net/JasonRaySHD/article/details/104223642
+https://blog.csdn.net/liuchuo/article/details/52505179
