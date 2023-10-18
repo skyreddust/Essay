@@ -1,0 +1,12 @@
+source - shortest path - destination
+
+Dijkstra算法o(n^2)：单源最短路径，求一个顶点到其他所有顶点的最短路径
+Floyd算法o(n^3)：多源最短路径，求任意两个节点之间最短路径
+·Floyd可以算带负权的，dijkstra不可计算带负权
+·Floyd不可计算负权回路
+
+参考链接：
+https://www.cnblogs.com/skywang12345/p/3711512.html
+https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html
+https://blog.csdn.net/Harington/article/details/81982299
+https://oi-wiki.org/graph/shortest-path/
