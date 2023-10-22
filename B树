@@ -1,0 +1,5 @@
+B树(B-tree)：平衡的多路查找树
+结点最大的孩子数目称之为B树的阶(order)
+
+参考链接：
+https://www.yuque.com/jinsizongzi/agoug5/vcvdle
