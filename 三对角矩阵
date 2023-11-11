@@ -1,0 +1,6 @@
+三对角矩阵压缩公式：
+数组下标k = 2*i + j -3
+
+参考链接：
+https://blog.csdn.net/markey1/article/details/117825047
+408 2016 4题
