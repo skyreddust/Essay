@@ -10,3 +10,6 @@ Prim算法：加点法
 参考链接：
 https://blog.csdn.net/luoshixian099/article/details/51908175
 https://oi-wiki.org/graph/mst/
+
+在n个节点的树中有n-1条边 - 每棵树节点数比边数多1
+408 2016 5题
