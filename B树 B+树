@@ -1,5 +1,14 @@
 B树(B-tree)：平衡的多路查找树
 结点最大的孩子数目称之为B树的阶(order)
+假设m阶B树：
+1.根节点至少有两棵子树
+2.非根分支节点，⌈m/2⌉ ≤ 孩子数 ≤ m，⌈m/2⌉-1 ≤ 关键字数 ≤ m-1
+3.所有叶子结点都位于同一层次
+4.m阶B树在最简情况下可以退化为二叉排序树
+...
+参考链接：
+https://www.yuque.com/jinsizongzi/agoug5/vcvdle
+【例题】408 2018 8
 
 B+树适用于操作系统文件索引和数据库索引，磁盘读写代价低，查询效率稳定
 编译器词法分析：有穷自动机和语法树
@@ -7,11 +16,8 @@ B+树适用于操作系统文件索引和数据库索引，磁盘读写代价低
 OS磁盘空闲块管理：空闲空链表
 【例题】408 2017 9
 
-参考链接：
-https://www.yuque.com/jinsizongzi/agoug5/vcvdle
-
 B+树
-408 2016 10题
+408 2016 10
 https://zhuanlan.zhihu.com/p/98021010
 https://zhuanlan.zhihu.com/p/428957252
 https://blog.csdn.net/a519640026/article/details/106940115
